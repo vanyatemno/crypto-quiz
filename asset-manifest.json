@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crypto-quiz/static/css/main.c8473841.css",
+    "main.js": "/crypto-quiz/static/js/main.32a37414.js",
+    "static/js/787.19df7941.chunk.js": "/crypto-quiz/static/js/787.19df7941.chunk.js",
+    "static/media/results-image.png": "/crypto-quiz/static/media/results-image.fbf2a9163692076513a5.png",
+    "static/media/start-image.png": "/crypto-quiz/static/media/start-image.d64fc341310aebaa0db5.png",
+    "static/media/failure-image.png": "/crypto-quiz/static/media/failure-image.d6440e256dc8ab528223.png",
+    "static/media/0.png": "/crypto-quiz/static/media/0.b8430dae1c322e2ed981.png",
+    "static/media/success-image.png": "/crypto-quiz/static/media/success-image.82be6d10997ea2c1837f.png",
+    "static/media/failure-emojis.png": "/crypto-quiz/static/media/failure-emojis.b0563360935cd2ab1d60.png",
+    "static/media/results-emojis.png": "/crypto-quiz/static/media/results-emojis.938be9ed5d23db6ac505.png",
+    "static/media/success-emojis.png": "/crypto-quiz/static/media/success-emojis.938be9ed5d23db6ac505.png",
+    "static/media/logo.svg": "/crypto-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crypto-quiz/index.html",
+    "main.c8473841.css.map": "/crypto-quiz/static/css/main.c8473841.css.map",
+    "main.32a37414.js.map": "/crypto-quiz/static/js/main.32a37414.js.map",
+    "787.19df7941.chunk.js.map": "/crypto-quiz/static/js/787.19df7941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8473841.css",
+    "static/js/main.32a37414.js"
+  ]
+}
